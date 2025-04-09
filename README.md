@@ -1,4 +1,5 @@
 This is the code and files used for my thesis titled: "Comparison of Classification Methodologies using Convolutional Neural Networks in a Dataset of Plant Leaf Diseases”.
+The folder "notebooks" contains the jupyter notebooks containing the code.
 An updated version of this project will be available in a different repository named FieldPlant.
 
 This project is inspired by "FieldPlant: A Dataset of Field Plant Images for Plant Disease Detection and Classification With Deep Learning" (Moupojou et al., 2023). (https://ieeexplore.ieee.org/document/10086516)
